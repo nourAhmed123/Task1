@@ -1,0 +1,36 @@
+body{
+	background-color: lightblue;
+}
+img {
+  border-radius: 50%;
+  margin-top: 200px;
+  
+}
+h3{
+  margin-left: 75%;
+}
+#wel{
+  border-radius: 5%;
+  position: center;
+}
+#s{
+  position: center;
+  border-radius: 5%;
+}
+
+ol{
+  color: grey;
+ 
+}
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+#N{
+  width:100px;
+  border-radius: 5%;
+margin-bottom: 100px;
+}
+h4{
+  margin-bottom: 50px;
+}
